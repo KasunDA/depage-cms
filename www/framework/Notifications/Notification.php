@@ -11,6 +11,7 @@ class Notification extends \Depage\Entity\Entity
     // {{{ variables
     /**
      * @brief fields
+     * @todo add delivery methods
      **/
     static protected $fields = array(
         "id" => null,
